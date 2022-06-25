@@ -5,13 +5,16 @@
 |  Célula de conteúdo |  Célula de conteúdo |
 |  Célula de conteúdo |  Célula de conteúdo |
 
-# Roda pé
+# Notas de rodapé (Footnotes)
 
 Teste 123[^1]
 
 * Teste 123[^2]
     * Teste 123[^3]
 
+# Notas de rodapé + Link (Footnotes)
+
+* Sintaxe básica de escrita e formatação no GitHub[^4]
 
 # Imagem
 
@@ -197,6 +200,7 @@ https://github.com/govinda777/blog/commit/420f27aa53fe66e38b439219babe0d29bfdf32
 
 ## Footer
 
-* [^1]: Referencia 1.
-* [^2]: Referencia 2.
-* [^3]: Referencia 3.
+* [^1]: Teste 123 : Primeiro teste
+* [^2]: Teste 123 : Segundo teste
+* [^3]: Teste 123 : Terceiro teste
+* [^4]: ! [getting-started-with-writing-and-formatting-on-github](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#links)

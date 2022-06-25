@@ -210,3 +210,5 @@ https://github.com/govinda777/blog/commit/420f27aa53fe66e38b439219babe0d29bfdf32
 * [^2]: Teste 123 : Segundo teste
 * [^3]: Teste 123 : Terceiro teste
 * [^4]: [[README] Manual](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#links)
+* [^5]: [[README] Diagramas](https://mermaid-js.github.io/mermaid/#/?id=diagram-types)
+* [^6]: [[README] Lista de emojis](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#face-smiling)

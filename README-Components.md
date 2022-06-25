@@ -33,10 +33,12 @@ Teste 123[^1]
 
 ## Completa com mais elementos
 
-> # CI/CD Git Hub ![CI/CD Git Hub](./imgs/CI-CD-PIPELINE-GITHUB.jpeg)
-https://youtu.be/R8_veQiYBjI
+> # Video Tutorial: CI/CD Git Hub ![CI/CD Git Hub](./imgs/CI-CD-PIPELINE-GITHUB.jpeg)
+### https://youtu.be/R8_veQiYBjI
 
 * ![](./imgs/CI-CD-PIPELINE-GITHUB-1.jpeg)
+
+## Completa + elementos + descrição
 
 * ![](./imgs/CI-CD-PIPELINE-GITHUB-2.jpeg)
 

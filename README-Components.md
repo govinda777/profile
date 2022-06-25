@@ -180,6 +180,21 @@ Criar de relatórios automatizados a fim de refletir a atual situação do relea
 </ul>
 </p>
 
+## Commit Com muitas informações 
+
+title : What do I have better than the my competitors? (No que eu sou melh…
+…or que os meus competidores?) <br />subtitle : Implementação de Head and Footer TEMPLATE <br /> hashtags : #conseitos conseitos#ui-ux conseitos#comunicação conseitos#producao-de-conteudo #processo processo#comunicação processo#compatilhar-conhecimento #organização organização#blog organização#blog-a-partir-do-git #MANEIRA LEGAL DE USAR O GIT :) #MANEIRA LIVRE DE USAR UMA FERRAMENTA FANTASTICA TE Amo Git s2 <br /> :grinning: :smiley: :grin: :joy: :blush: <br />  <br />  I :star_struck: GIT
+
+
+https://github.com/govinda777/blog/commit/0e8ee46ce7982dda31e6b56e3f6409653657f13f
+
+## Commit Com poucas informações 
+
+implementacao de gulpfile.js para implementar o conseito de Template nos arquivos Readme
+
+https://github.com/govinda777/blog/commit/420f27aa53fe66e38b439219babe0d29bfdf322f
+
+
 ## Footer
 
 * [^1]: Referencia 1.

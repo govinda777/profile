@@ -148,7 +148,7 @@ sequenceDiagram
 [<img src="https://www.linkedin.com/in/govinda777/recent-activity/"><br><sub>Luã Govinda</sub>](https://github.com/govinda777)
 https://www.linkedin.com/in/govinda777/recent-activity/
 
-## Profile Experience List []
+## Profile Experience List
 
 <p align="left">
 

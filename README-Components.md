@@ -15,6 +15,12 @@ Teste 123[^1]
 # Notas de rodapé + Link (Footnotes)
 
 * [README] Manual[^4]
+* [README] Diagramas[^5]
+* [README] Lista de emojis[^6] 
+
+emojis are also part of communication 
+:relaxed:
+
 
 # Imagem
 

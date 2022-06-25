@@ -23,7 +23,7 @@ Teste 123[^1]
 ## Resumida
 
 > ![Kant](./imgs/Prof_Clovis_Filho-VC-TEM-BRIU-YOU-TUBE.jpeg)
-https://www.youtube.com/watch?v=UVtgFN3K6kE
+* https://www.youtube.com/watch?v=UVtgFN3K6kE
 
 ## Completa
 

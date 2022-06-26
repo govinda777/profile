@@ -219,6 +219,16 @@ implementacao de gulpfile.js para implementar o conseito de Template nos arquivo
 
 https://github.com/govinda777/blog/commit/420f27aa53fe66e38b439219babe0d29bfdf322f
 
+## Referências
+
+> ![Kant](./imgs/Prof_Clovis_Filho-VC-TEM-BRIU-YOU-TUBE.jpeg)
+https://www.youtube.com/watch?v=UVtgFN3K6kE
+
+> # CI/CD Git Hub ![CI/CD Git Hub](./imgs/CI-CD-PIPELINE-GITHUB.jpeg)
+  
+* ![](./imgs/CI-CD-PIPELINE-GITHUB-1.jpeg)
+### https://youtu.be/R8_veQiYBjI
+
 
 ## Footer
 
@@ -227,6 +237,7 @@ https://github.com/govinda777/blog/commit/420f27aa53fe66e38b439219babe0d29bfdf32
   <source media="(prefers-color-scheme: light)" srcset="https://i.ytimg.com/vi/IWFCBvepUlY/maxresdefault.jpg">
   <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://i.ytimg.com/vi/IWFCBvepUlY/maxresdefault.jpg">
 </picture>
+
 
 
 [^1]: Teste 123 : Primeiro teste

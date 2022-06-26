@@ -36,6 +36,10 @@
 ## Experiência 
 
 
+## Referencia
+
+Angular Components: Conhecendo e configurando no seu projeto : https://www.devmedia.com.br/angular-components-conhecendo-e-configurando-no-seu-projeto/40734
+
 
 ### Release Train Engineer by Approvata
 

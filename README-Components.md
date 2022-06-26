@@ -1,3 +1,19 @@
+# HEAD
+
+
+<head>
+  <meta charset="utf-8">
+  <meta name="Description" CONTENT="Clóvis de Barros Filho Você sabe o que é brio ??">
+  <meta name="robots" content="all">
+</head>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://s.dicio.com.br/brio.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://s.dicio.com.br/brio.png">
+  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://s.dicio.com.br/brio.png">
+</picture>
+
 # Tabela
 
 | Primeiro cabeçalho  |  Segundo cabeçalho  |
@@ -205,6 +221,13 @@ https://github.com/govinda777/blog/commit/420f27aa53fe66e38b439219babe0d29bfdf32
 
 
 ## Footer
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://i.ytimg.com/vi/IWFCBvepUlY/maxresdefault.jpg">
+  <source media="(prefers-color-scheme: light)" srcset="https://i.ytimg.com/vi/IWFCBvepUlY/maxresdefault.jpg">
+  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://i.ytimg.com/vi/IWFCBvepUlY/maxresdefault.jpg">
+</picture>
+
 
 * [^1]: Teste 123 : Primeiro teste
 * [^2]: Teste 123 : Segundo teste

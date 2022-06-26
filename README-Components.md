@@ -222,12 +222,18 @@ https://github.com/govinda777/blog/commit/420f27aa53fe66e38b439219babe0d29bfdf32
 ## Referências
 
 > ![Kant](./imgs/Prof_Clovis_Filho-VC-TEM-BRIU-YOU-TUBE.jpeg)
+```python
+
+tkinter.messagebox.askyes(title="ref", message="""
+
 https://www.youtube.com/watch?v=UVtgFN3K6kE
 
-> # CI/CD Git Hub ![CI/CD Git Hub](./imgs/CI-CD-PIPELINE-GITHUB.jpeg)
-  
-* ![](./imgs/CI-CD-PIPELINE-GITHUB-1.jpeg)
-### https://youtu.be/R8_veQiYBjI
+"""
+)
+
+```
+[![Watch the video](./imgs/COMPONENTES_README-List-VIDEO.jpeg)](https://www.youtube.com/watch?v=VEVJQipsA7M)
+
 
 
 ## Footer
